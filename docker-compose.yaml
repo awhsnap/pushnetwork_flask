@@ -3,4 +3,4 @@ services:
   flask_app:
     build: .
     ports:
-      - 4321:4321
+      - 4321:5000
